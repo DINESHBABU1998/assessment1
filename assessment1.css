@@ -1,0 +1,18 @@
+p{
+    color:darkred;  
+}
+a{
+    color:darkred;
+    background-color: yellow;
+}
+h1,h3{
+    color:rgba(218, 15, 15, 0.877);
+}
+ol{
+    color: darkred;
+    line-height: 32px;
+}
+ul{
+    color: darkred;
+    letter-spacing:5px;
+}
